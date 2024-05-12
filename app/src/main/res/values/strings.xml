@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlexaarProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_input_form">User Input Form</string>
+    <string name="save_continue"><![CDATA[Save & Continue]]></string>
+    <string name="some_error_occurred_please_try_again_later">Some error occurred. Please try again later.</string>
+</resources>
